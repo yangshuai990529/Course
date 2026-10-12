@@ -1,0 +1,9 @@
+**/node_modules/
+**/qa/
+**/dist/
+_site/
+.DS_Store
+.env
+.env.*
+**/.codex/
+**/.agents/
